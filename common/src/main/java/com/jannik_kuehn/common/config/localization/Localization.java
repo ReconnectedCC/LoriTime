@@ -9,7 +9,7 @@ import java.util.Objects;
 
 @SuppressWarnings("PMD.CommentRequired")
 public class Localization {
-    private static final String PLUGIN_PREFIX = "<#808080>[<#08A51D>LoriTime<#808080>]<reset> ";
+    private static final String PLUGIN_PREFIX = "";
 
     private final Configuration langFile;
 
